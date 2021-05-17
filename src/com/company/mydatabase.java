@@ -1,6 +1,6 @@
 package com.company;
 
-public class mydatabase implements DBInterface {
+public class mydatabase implements com.company.DBInterface {
 
     public mydatabase(){
 

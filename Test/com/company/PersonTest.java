@@ -3,6 +3,9 @@ package com.company;
 import org.junit.Test;
 
 import org.junit.Assert;
+
+import java.com.company.Person;
+
 import static org.junit.Assert.*;
 
 public class PersonTest {

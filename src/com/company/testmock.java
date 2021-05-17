@@ -2,7 +2,7 @@ package com.company;
 
 public class testmock {
 
-        mydatabase database = new mydatabase();
+        com.company.mydatabase database = new com.company.mydatabase();
 
         public static void main(String[] args) {
             testmock t=new testmock();
